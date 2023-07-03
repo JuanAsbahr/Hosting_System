@@ -1,0 +1,15 @@
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\bin\Debug\net7.0\Hosting_System.exe
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\bin\Debug\net7.0\Hosting_System.deps.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\bin\Debug\net7.0\Hosting_System.runtimeconfig.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\bin\Debug\net7.0\Hosting_System.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\bin\Debug\net7.0\Hosting_System.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\obj\Debug\net7.0\Hosting_System.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\obj\Debug\net7.0\Hosting_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\obj\Debug\net7.0\Hosting_System.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\obj\Debug\net7.0\Hosting_System.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\obj\Debug\net7.0\Hosting_System.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\obj\Debug\net7.0\Hosting_System.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\obj\Debug\net7.0\refint\Hosting_System.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\obj\Debug\net7.0\Hosting_System.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\obj\Debug\net7.0\Hosting_System.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Hosting_System\obj\Debug\net7.0\ref\Hosting_System.dll

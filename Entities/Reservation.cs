@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Hosting_System.Entities
+﻿namespace Hosting_System.Entities
 {
     internal class Reservation
     {
@@ -28,7 +22,7 @@ namespace Hosting_System.Entities
 
         public override string ToString()
         {
-            return "Room"
+            return "Room "
                 + RoomNumber
                 + ", check-in: "
                 + CheckIn.ToString("dd/MM/yyyy")
