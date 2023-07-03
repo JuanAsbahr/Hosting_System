@@ -33,6 +33,10 @@ internal class Program
         {
             Console.WriteLine("Error in reservation: " + e.Message);
         }
+        catch (Exception e)
+        {
+            Console.WriteLine("Unexpected error: " + e.Message);
+        }
 
     }
 }
